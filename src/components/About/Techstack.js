@@ -19,7 +19,7 @@ import {
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
-function Techstack() {
+export const Techstack=()=> {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
     
